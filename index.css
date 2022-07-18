@@ -6,4 +6,22 @@
     border-style: ridge;
     border-width: 10px;
     float: left;
+    
+}
+
+#nameInputForm{
+    margin-top: 15px;
+    margin-right:25px ;
+    float: right;
+}
+
+#PokeCardCollection{
+    float: left;
+    margin-top: 600px;
+    margin-left: 0px;
+}
+
+#CardCollectionContainer{
+    margin-top: 600px;
+    border-style: solid;
 }
