@@ -5,9 +5,6 @@ The pokemon stat viewer app allows the user to pick a pokemon from the selected 
 
 ## Usage 
 
-<img src = "/Users/matthewcollier/Desktop/Screen Shot 2022-07-19 at 8.53.43 PM.png">
-Display pokemon stats of desired pokemon 
-
 *A brief video walk through from the app*
 
 https://youtu.be/d0kQUA42Tts
